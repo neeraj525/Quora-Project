@@ -1,0 +1,11 @@
+{
+    "elements": {},
+    "attributes": {
+        "noresize": {
+            "context": "iframe"
+        },
+        "placeholder": {
+            "context": "div"
+        }
+    }
+}
